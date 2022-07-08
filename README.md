@@ -1,6 +1,6 @@
 ## Hi 👋
 
-My name´s Natália Pereira de Almeida, I´m a student of Information Systems at the Federal University of Ouro Preto and I'm also an intern in Software Development.
+My name´s Natália Pereira de Almeida, I´m a student of Information Systems at the Federal University of Ouro Preto.
 
 ![Natália Almeida GitHub stats](https://github-readme-stats.vercel.app/api?username=naalmeida98&show_icons=true&theme=radical)
 
